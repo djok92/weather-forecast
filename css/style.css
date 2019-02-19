@@ -1,0 +1,52 @@
+/*404*/
+
+/* html, 
+body {
+    height: 100%;
+}
+body {
+    background:linear-gradient(-1deg, RGB(232,227,208) 50%, RGB(250,246,235) 90%, RGB(250,246,235) 20%);
+    height: 100%;
+    width:100%;
+}
+.err-404 {
+    position: absolute;
+    background-image: url("img/404.png");
+    height: 775px;
+    width: 1600px;
+    top: 50%;
+    left: 50%;
+    margin: -385px 0 0 -800px;
+    background-repeat: no-repeat;
+} */
+
+
+/*Ostalo*/
+.background-grey-darker {
+    background: #4a4a4a;
+}
+.text-white-ter {
+    color: whitesmoke;
+}
+.text-white-ter:hover {
+    color: #87CEEB;
+}
+.router-link-active {
+    color: #1E90FF;
+}
+.nav-logo-margin {
+    margin-right: 150px;
+}
+#map {
+    /* margin-top: 30px; */
+    height: 350px;
+}
+.position-figure {
+    margin: auto;
+}
+.image-display {
+    display: inline-block;
+}
+table#text-center-table tr th, table#text-center-table tr td {
+    text-align: center !important;
+}
